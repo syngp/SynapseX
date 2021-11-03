@@ -8,7 +8,7 @@ The **complete**, **unredacted** of the source code to a build of **Synapse X** 
 - Our own version is properly documented. His version lacks the comments and additional information that explains the functioning of our code.
 - To protect our competitors. While it is expected of us to supplant our competitors, we do not condone unfair marketing practices or hurtful behavior towards them. The perpetrator has allegedly obtained identifying information about our competitors, and we do not want it to be included or otherwise spread by his releases.
 
-## What does the release contains?
+## What does the release contain?
 - The unredacted, complete source code of Synapse X dating from October 21, 2019. The code is obviously not updated, but should compile as is using Visual Studio 2019.
 - Our numerous libraries that aids us in developing Synapse X and associated products.
 - The source code to several scripts available in the Synapse X script hub, excluding proprietary (paid) scripts.
